@@ -2,6 +2,12 @@
 
 An AI-powered learning assistant built using **Streamlit** and **Google Gemini AI**. The application helps users understand any topic through simple explanations, real-life examples, quizzes, summaries, interview questions, and interactive AI responses.
 
+
+🚀 Live Demo
+
+🌐 **Try the App:** https://ai-learning-buddy-p95binyhdm8cbxnwjlqkjk.streamlit.app/
+
+
 ---
 
 ## 🚀 Features
